@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libertheologiae00mendgoog_0184.png"; bbox 0 0 640 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 129 434 220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 42 129 434 220">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 129 327 160; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 42 129 180 160; x_wconf 50' lang='grc' dir='ltr'><strong>ἐξ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 312 140 327 155; x_wconf 78' lang='grc' dir='ltr'><strong>,ο</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 140 434 201; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 42 140 127 195; x_wconf 47' lang='lat' dir='ltr'>mil..</span> <span class='ocrx_word' id='word_1_4' title='bbox 134 158 266 180; x_wconf 54' lang='lat' dir='ltr'><strong>aenean}</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 259 140 328 175; x_wconf 55' lang='grc' dir='ltr'><em>ἒ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 337 159 434 201; x_wconf 45' lang='lat' dir='ltr'><strong>&amp;eff</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 42 187 426 220; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 42 187 426 220; x_wconf 53' lang='grc' dir='ltr'><strong>Γιιόψῂιέιιέξῖἷίὶ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 42 218 427 259">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 42 218 427 259">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 218 425 244; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 42 218 425 244; x_wconf 54' lang='grc' dir='ltr'><strong>ἰζῖἰῧὲὅοΐΙΙΒΕ-Εὲἶ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 213 238 427 259; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 213 238 427 259; x_wconf 59' lang='grc' dir='ltr'><strong>ἷῗδῖκίι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 38 42 495 540">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 38 42 495 540">
+     <span class='ocr_line' id='line_1_6' title="bbox 38 42 495 540; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 38 42 495 540; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
